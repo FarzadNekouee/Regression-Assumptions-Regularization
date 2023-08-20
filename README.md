@@ -1,4 +1,4 @@
-# 🚗 Polynomial Regression and Regularization in Used Car Pricing
+## 🚗 Regression & Regularization: Assumptions Explored in Used Car Pricing
 ![Polynomial Regression and Regularization in Used Car Pricing](image.png)
 
 ## 🌐 Overview
